@@ -1,0 +1,221 @@
+What is AWS Cloud
+
+AWS provides on-demand delivery of technology services through the Internet with pay-as-you-go pricing. This is known as cloud computing.
+The AWS Cloud encompasses a broad set of global cloud-based products that includes compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications: on-demand, available in seconds, with pay-as-you-go pricing. With over 200 fully featured services available from data centers globally, the AWS Cloud has what you need to develop, deploy, and operate your applications, all while lowering costs, becoming more agile, and innovating faster.
+For example, with the AWS Cloud, you can spin up a virtual machine, specifying the number of vCPU cores, memory, storage, and other characteristics in seconds, and pay for the infrastructure in per-second increments only while it is running. One benefit of the AWS global infrastructure network is that you can provision resources in the Region or Regions that best serve your specific use case. When you are done with the resources, you can simply delete them. With this built-in flexibility and scalability, you can build an application to serve your first customer, and then scale to serve your next 100 million.
+
+Why AWS?
+
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+The Leading Cloud:
+Breakthrough innovations ||
+AWS is committed to delivering industry-first cloud capabilities for our customers. The scale and scope at which we operate enable us to look around corners and think years ahead—to innovate on your behalf. We have delivered the first cloud-native services for compute, serverless, storage, and relational databases, and the first fully managed, end-to-end machine learning suite. 
+
+Security you can trust ||
+Security is our highest priority. We've architected our infrastructure and services to provide you with the most secure cloud computing environment available today. AWS helps meet the unique security requirements of the most sensitive workloads, trusted by government agencies, financial institutions, and healthcare organizations worldwide.
+
+Greatest choice ||
+AWS gives you the greatest choice and flexibility by offering the broadest and deepest set of cloud capabilities to build optimized solutions that balance performance and cost-effectiveness. With AWS, organizations modernize faster, scale more efficiently, and maintain competitive advantages through access to cutting-edge technologies and industry-specific solutions.
+
+Largest and most extensive global infrastructure ||
+We've built the world’s largest and most extensive global
+infrastructure, providing you the capacity you need. Our infrastructure is uniquely architected to offer unparalleled scalability, performance, and reliability for your applications whether they are running in the cloud, on-premises, or at the edge.
+
+Trusted partners and solutions ||
+At AWS, we and our partners share an obsession over customer success and are committed to helping you find the right solutions. By combining our partners’ deep, specialized expertise with AWS services, infrastructure, and AWS Marketplace, we empower you to achieve exceptional business outcomes with greater speed and confidence.
+
+AWS Global Infrastructure
+The AWS Cloud spans 120 Availability Zones within 38 Geographic Regions, with announced plans for 10 more Availability Zones and 3 more AWS Regions in the Kingdom of Saudi Arabia, Chile, and the AWS European Sovereign Cloud.
+
+AWS Coverage Regions(North America)
+Geographic Regions(9)
+
+AWS GovCloud (US-East)
+AWS GovCloud (US-West)
+Canada (Central)
+Canada West (Calgary)
+Mexico (Central)
+US West (Northern California)
+US East (Northern Virginia)
+US East (Ohio)
+US West (Oregon)
+
+The AWS Cloud in North America has 31 Availability Zones within 9 Geographic Regions, with 31 Edge Network Locations and 3 Edge Cache Locations.
+Ashburn, VA
+Atlanta GA
+Boston, MA
+Chicago, IL
+Columbus, OH
+Dallas/Fort Worth, TX
+Denver, CO
+Hayward, CA
+Houston, TX
+Jacksonville, FL
+Kansas City, MO
+Los Angeles, CA
+Miami, FL
+Minneapolis, MN
+Montreal, QC
+Nashville, TN
+New York, NY
+Newark, NJ
+Palo Alto, CA
+Phoenix, AZ
+Philadelphia, PA
+Portland, OR
+Queretaro, MX
+Salt Lake City, UT
+San Jose, CA
+Seattle, WA
+South Bend, IN
+St. Louis, MO
+Tampa Bay, FL
+Toronto, ON
+Washington D.C.
+
+Geographic Regions(South America)-2
+
+South America (São Paulo)
+South America (Chile)
+
+Edge Locations(7)
+The AWS Cloud in South America has 3 Availability Zones within 1 Geographic Regions, with 7 Edge Network Locations and 1 Edge Cache Locations.
+Bogota, Colombia
+Buenos Aires, Argentina
+Fortaleza, Brazil
+Lima, Peru
+Rio de Janeiro, Brazil
+São Paulo, Brazil
+Santiago, Chile
+
+Geographic Regions(Europe)-9
+
+Europe (Stockholm)
+Europe (Frankfurt)
+Europe (Ireland)
+Europe (London)
+Europe (Milan)
+Europe (Paris)
+Europe (Spain)
+Europe (Zurich)
+
+Edge Locations(31)
+
+The AWS Cloud in Europe has 24 Availability Zones within 8 Geographic Regions, with 31 Edge Network Locations and 2 Edge Cache Locations.
+Amsterdam, The Netherlands
+Athens, Greece
+Barcelona, Spain
+Berlin, Germany
+Brussels, Belgium
+Bucharest, Romania
+Budapest, Hungary
+Copenhagen, Denmark
+Dublin, Ireland
+Dusseldorf, Germany
+Frankfurt, Germany
+Hamburg, Germany
+Helsinki, Finland
+Lisbon, Portugal
+London, England
+Madrid, Spain
+Manchester, England
+Marseille, France
+Milan, Italy
+Munich, Germany
+Oslo, Norway
+Palermo, Italy
+Paris, France
+Prague, Czech Republic
+Rome, Italy
+Sofia, Bulgaria
+Stockholm, Sweden
+Vienna, Austria
+Warsaw, Poland
+Zagreb, Croatia
+Zurich, Switzerland
+
+Geographic Regions(Middle east)-4
+
+Middle East (Bahrain)
+Kingdom of Saudi Arabia
+Israel (Tel Aviv)
+Middle East (UAE)
+
+Edge Locations(7)
+
+The AWS Cloud in Middle East has 9 Availability Zones within 3 Geographic Regions, with 7 Edge Network Locations and 0 Edge Cache Locations.
+Cairo, Egypt
+Dubai, UAE
+Fujairah, UAE
+Jeddah, Kingdom of Saudi Arabia
+Manama, Bahrain
+Muscat, Oman
+Tel Aviv, Israel
+
+Geographic Regions(Africa)-1
+
+Africa (Cape Town)
+
+Edge Locations(4)
+The AWS Cloud in Africa has 3 Availability Zones within 1 Geographic Regions, with 4 Edge Network Locations and 0 Edge Cache Locations.
+Cape Town, South Africa
+Johannesburg, South Africa
+Lagos, Nigeria
+Nairobi, Kenya
+
+Geographic Regions(Asia Pacific)-13
+
+Mainland China (Beijing)
+Asia Pacific (Hong Kong)
+Asia Pacific (Hyderabad)
+Asia Pacific (Jakarta)
+Asia Pacific (Malaysia)
+Asia Pacific (Mumbai)
+Mainland China (Ningxia)
+Asia Pacific (Osaka)
+Asia Pacific (Seoul)
+Asia Pacific (Singapore)
+Asia Pacific (Taipei)
+Asia Pacific (Thailand)
+Asia Pacific (Tokyo)
+
+Edge Locations
+23
+The AWS Cloud in Asia Pacific has 41 Availability Zones within 13 Geographic Regions, with 23 Edge Network Locations and 4 Edge Cache Locations.
+Bangalore, India
+Bangkok, Thailand
+Chennai, India
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Hong Kong SAR, China
+Hyderabad, India
+Jakarta, Indonesia
+Kolkata, India
+Kuala Lumpur, Malaysia
+Manila, Philippines
+Mumbai, India
+New Delhi, India
+Osaka, Japan
+Pune, India
+Seoul, South Korea
+Singapore
+Taipei, TaiwanTokyo, Japan
+Beijing, China
+Shanghai, China
+Zhongwei, China
+Shenzhen, China
+
+Geographic Regions(Australia and New Zealand)-3
+
+Australia (Melbourne)
+Australia (Sydney)
+AWS Asia Pacific (New Zealand)
+
+Edge Locations(5)
+The AWS Cloud in Australia and New Zealand has 9 Availability Zones within 3 Geographic Regions, with 5 Edge Network Locations and 1 Edge Cache Locations.
+Auckland, New Zealand
+Brisbane, Australia
+Melbourne, Australia
+Perth, Australia
+Sydney, Australia
